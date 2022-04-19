@@ -1,0 +1,12 @@
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="30em" height="30em">
+  <defs>
+    <linearGradient x1="50%" y1="6.182%" x2="50%" y2="103.519%" id="ic-oozie_svg__a">
+      <stop stop-color="#93C1F9" offset="0%"/>
+      <stop stop-color="#3F8AD6" offset="100%"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path d="M5.424 3.28a2.05 2.05 0 00-1.431.636 2.504 2.504 0 00-.712 1.723v.055c0 .078.006.16.016.273 0 4.163.022 8.31.067 12.472a2.101 2.101 0 002.291 2.27l12.72.001c.056.005.111.008.16.01h.075a2.15 2.15 0 002.098-2.385V5.455a2.124 2.124 0 00-2.067-2.174H5.424z" stroke="#066AC7" stroke-width=".562" fill="url(#ic-oozie_svg__a)"/>
+    <path d="M12.039 13.04a1.03 1.03 0 10-.03.001h.03m0 3.959A5 5 0 1117 11.962v.047A4.999 4.999 0 0112.039 17" stroke="#0050A2" stroke-width=".973" fill="#FFF300"/>
+  </g>
+</svg>
